@@ -24,7 +24,7 @@ To use Neuralgorithm, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Neuralgorithm.git
+    git clone https://github.com/Arthur9149/Neuralgorithm.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -65,7 +65,7 @@ Pour utiliser Neuralgorithm, suivez ces étapes :
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/yourusername/Neuralgorithm.git
+    git clone https://github.com/Arthur9149/Neuralgorithm.git
     ```
 2. Accédez au répertoire du projet :
     ```sh
