@@ -77,7 +77,7 @@ Pour utiliser Neuralgorithm, suivez ces étapes :
     ```
 4. Exécutez le script principal pour commencer à générer des polices :
     ```sh
-    python main.py
+    neuralgorithm_script.py
     ```
 
 Pour des instructions détaillées, reportez-vous au fichier `DOC.txt` inclus dans le dépôt.
