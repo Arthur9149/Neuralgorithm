@@ -99,7 +99,7 @@ print(f'Test set: Average loss: {test_loss:.4f}, '
 
 
 # New save path
-save_path = 'D:/ESAD/Travail autonomie/A quoi revent les algorythmes/alphabet2'
+save_path = 'C:/Username/Neuralgorithm/' #example of a path 
 os.makedirs(save_path, exist_ok=True)
 
 
